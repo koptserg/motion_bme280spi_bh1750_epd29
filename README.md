@@ -11,4 +11,3 @@
 # Hardware
 ![](/images/epd29.jpg)
 
-epd29.jpg
