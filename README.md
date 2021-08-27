@@ -8,4 +8,7 @@
 1. Hold button (1) for 10 seconds, this will reset device to FN(factory new) status
 2. Go to step 1 for FN device
 
+# Hardware
+![](/images/epd29.jpg)
+
 epd29.jpg
